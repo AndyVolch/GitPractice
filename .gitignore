@@ -1,0 +1,4 @@
+log/
+*.py[cod]
+docker-compose.yaml
+resourses/products.json
